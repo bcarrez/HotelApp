@@ -22,6 +22,7 @@ import com.javaworld.hotels.businessobjects.Hotel;
  *
  * A simple class providing lookup services for a Hotel database.
  */
+
 public class HotelModel {
 
 	/**
